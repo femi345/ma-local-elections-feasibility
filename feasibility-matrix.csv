@@ -1,0 +1,13 @@
+Municipality,Pop2020,County,GovForm,Platform,1_RegisteredVoters,2_LocalTurnout,3_StateTurnout,4_FedTurnout,5_TownMtgAttend,6_SpecTownMtgAttend,7_SeatsOnBallot,8_Unopposed_NoneRunning,9_IncumbentsRunning,10_OfficeType_TermLength,AccessNotes
+Newton,88923,Middlesex,City,Granicus,Green,Green,Green,Green,N-A,N-A,Green,Yellow,Yellow,Green,Akamai bot-block (needs full browser headers / headless); 2023 results PDF is scanned (OCR)
+Amherst,39263,Hampshire,Town-Council,CivicPlus,Green,Green,Green,Green,N-A,N-A,Green,Yellow,Yellow,Green,Clean searchable PDFs on one DocumentCenter; per-election index page
+Cambridge,118403,Middlesex,City,Custom+Socrata,Green,Green,Green,Green,N-A,N-A,Green,Green,Yellow,Green,Searchable turnout PDFs + Socrata CSV (pre-2017); PR/ranked-choice ballots are multi-round
+Springfield,155929,Hampden,City,TYPO3-HTML,Green,Green,Green,Green,N-A,N-A,Green,Green,Yellow,Green,Results are clean selectable HTML <PRE> text tables; no gating
+Framingham,72362,Middlesex,City,CivicPlus,Green,Green,Green,Green,N-A,N-A,Green,Green,Yellow,Green,Clean searchable PDFs; term length printed inline per office
+Acton,24021,Middlesex,OpenTownMeeting,CivicPlus,Green,Green,Green,Green,Green,Green,Green,Green,Yellow,Green,Town-meeting attendance on a labeled header line; clean PDFs
+Hingham,24284,Plymouth,OpenTownMeeting,CivicPlus,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Best case: incumbents flagged on ballot; TM attendance explicit; term lengths explicit
+Sutton,9357,Worcester,OpenTownMeeting,CivicPlus,Yellow,Yellow,Yellow,Yellow,Yellow,Yellow,Yellow,Yellow,Red,Yellow,Scanned-image PDFs (OCR needed but legible); Cloudflare on HTML (asset path open); TM attendance recorded
+Stockbridge,2018,Berkshire,OpenTownMeeting,CivicPlus,Green,Green,Green,Green,Green,Red,Green,Green,Red,Yellow,Cloudflare-gated (needs real browser); Annual Town Reports are searchable text; TM attendance explicit; no STM held
+Sturbridge,9867,Worcester,OpenTownMeeting,Granicus,Green,Green,Green,Green,Yellow,Yellow,Green,Green,Green,Green,WAF on HTML (direct PDF assets open); incumbents marked with *; TM attendance only as max-vote proxy
+Southwick,9232,Hampden,OpenTownMeeting,CivicPlus,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Best case: explicit Inc. column; term lengths per office; TM/STM attendance + quorum recorded
+Becket,1931,Berkshire,OpenTownMeeting,CivicPlus,Green,Green,Yellow,Yellow,Red,Yellow,Green,Green,Yellow,Green,Born-digital searchable Annual Town Report; Cloudflare on HTML (assets open); state/fed via SoC; TM headcount not recorded
